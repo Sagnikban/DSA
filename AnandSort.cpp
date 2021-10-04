@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-int i,j,n,A[100]={0};
+int i,j,n,A[100]={0}; // the maximum number to be stored in the array is 100 here
 cout<<"Enter Size Of the Array: ";
 cin>>n;
 int B[n];
